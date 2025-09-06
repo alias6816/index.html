@@ -1,3 +1,3 @@
-document.getElementById("clickBtn").addEventListener("Tekan", function() {
-  document.getElementById("message").textContent = "Terima Kasih! 🚀";
+document.getElementById("clickBtn").addEventListener("click", function() {
+  document.getElementById("message").textContent = "Thanks for clicking! 🚀";
 });
